@@ -50,7 +50,7 @@ Dhruvik Modi:
           year: 2020
           percentage: 83%
 
-    hobbies: [ Trekking, Song listening ,Play & Watch Cricket ]
+    hobbies: [ Trekking, Music ,Play & Watch Cricket ]
 ```
 
 ## 🛠️ Tech Stack  
@@ -80,7 +80,7 @@ Dhruvik Modi:
 <div align="left">
   
   <!-- GitHub Streak -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dhruvikmodi23&theme=vision-friendly-dark&card_width=850)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user="Dhruvik_Modi"&theme=vision-friendly-dark&card_width=850)](https://git.io/streak-stats)
   
   <!-- Top Languages -->
   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhruvikmodi23&layout=compact&theme=vision-friendly-dark&card_width=850&border_color=FFFFFF)](https://github.com/dhruvikmodi23/github-readme-stats)
