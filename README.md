@@ -67,6 +67,7 @@ Dhruvik Modi:
     <h3 align="center">Frontend Development</h3>    
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=bootstrap" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
     <img src="https://skillicons.dev/icons?i=figma" /><br>
@@ -75,7 +76,6 @@ Dhruvik Modi:
     <img src="https://skillicons.dev/icons?i=postgres" />
     <h3 align="center">Mobile App Development</h3>
     <img src="https://skillicons.dev/icons?i=androidstudio" />
-    <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=flutter" /><br>
     <h3 align="center">AI/ML</h3>
     <img src="https://skillicons.dev/icons?i=tensorflow" />
