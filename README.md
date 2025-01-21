@@ -45,7 +45,7 @@ Dhruvik Modi:
           percentage: 80.30%
 
       - 10th Board (GSEB):
-          institution: Prince Ashokraje Gaekwad School
+          institution: SVEM(GM) School
           location: Ankleshwar, India
           year: 2020
           percentage: 83%
