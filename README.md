@@ -36,7 +36,7 @@ Dhruvik Modi:
           institution: Dharmsinh Desai University
           location: Nadiad, India
           duration: 2022 - 2026
-          CGPA: 8.09/10
+          CGPA: 8.15/10
 
       - 12th Board (GSEB):
           institution: Advait Vidhyaniketan 
