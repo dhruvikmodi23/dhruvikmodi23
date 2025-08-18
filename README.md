@@ -19,40 +19,6 @@
   </a>
 </div>
 
-# :sparkles: About Me
-
-```yaml
-Dhruvik Modi:
-    pronouns: he | him
-    located_in: Ankleshwar, India
-    title: Student
-  
-    skills:
-      -  programming: [ C, C++, Python, Javascript, TailwindCss, Html, ReactJs, ExpressJs, ML, DataStructures & Algorithms ]
-      -  technical_tools_and_platforms: [ VsCode, Git, GitHub, MongoDb Atlas, PostMan ]
-
-    education:
-      - Bachelor's in Information Technology Engineering:
-          institution: Dharmsinh Desai University
-          location: Nadiad, India
-          duration: 2022 - 2026
-          CGPA: 8.15/10
-
-      - 12th Board (GSEB):
-          institution: Advait Vidhyaniketan 
-          location: Bharuch, India
-          year: 2022
-          percentage: 80.30%
-
-      - 10th Board (GSEB):
-          institution: SVEM(GM) School
-          location: Ankleshwar, India
-          year: 2020
-          percentage: 83%
-
-    hobbies: [ Trekking, Music ,Play & Watch Cricket ]
-```
-
  <summary>
 <h2 align="center">⚒️ Techstack ⚒️</h2>
 </summary>
