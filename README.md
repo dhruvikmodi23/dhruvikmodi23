@@ -1,5 +1,5 @@
-Hi there 👋
-Dhruvik Modi
+<h2>Hi there 👋</h2>
+<h2>Dhruvik Modi</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvikmodi23&label=Profile%20views&color=010b13&style=flat" alt="Dhruvik Modi" style="width: 130px; height: auto;" /> </p><div id="header" align="center"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZzMjQxeG5obnJ6N3E3czR2a2FrN204bndndXQ0a3U0OXZ3ejltdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="850"/> <br> </div>
 🚀 About Me
@@ -45,7 +45,7 @@ I'm a passionate developer with expertise in multiple programming languages and 
 <img src="https://skillicons.dev/icons?i=github" title="GitHub" /> 
 <img src="https://skillicons.dev/icons?i=linux" title="Linux" /> 
 <img src="https://skillicons.dev/icons?i=arduino" title="Arduino" /><br> </div>
-# 📊 My Stats
+<summary><h2>📊 My Stats</h2></summary>
 <div align="left">
   
   <!-- GitHub Streak -->
